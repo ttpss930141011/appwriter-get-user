@@ -1,0 +1,10 @@
+ {
+    "name": "appwriter-get-users",
+    "version": "1.0.0",
+    "description": "Fetch user information by ID",
+    "main": "main.js",
+    "type": "module",
+    "dependencies": {
+      "node-appwrite": "^11.0.0"
+    }
+  }
